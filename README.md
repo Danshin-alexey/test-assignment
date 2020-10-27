@@ -4,7 +4,7 @@
 ____________________________________________________________________________________________________________
 # Документы:
 ## [План тестирования](https://github.com/Danshin-alexey/test-assignment/blob/main/Plan.md)
-## [Отчеты о найденных ошибках](https://github.com/Danshin-alexey/test-assignment/issues)
+## [Отчет о найденных ошибках](https://github.com/Danshin-alexey/test-assignment/issues)
 
 
 
