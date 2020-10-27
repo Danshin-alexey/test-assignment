@@ -32,11 +32,11 @@
 * Проверка корректной работы приложения на мобильных устройствах.
 
 # Инструменты используемые при тестировании:
-## * DevTools  
-## * GitHub
-## * ScreenShooter
-## *Opera, Safari, FireFox, IE, Chrome
-## * Postman
+##  DevTools  
+##  GitHub
+##  ScreenShooter
+##  Opera, Safari, FireFox, IE, Chrome
+##  Postman
 
 # Интервальная оценка времени:
 1. Изучение спецификации и составление сценариев тестирования ~ 2 человека-часов.
